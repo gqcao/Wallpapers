@@ -12,4 +12,6 @@ This is a collection of most wallpapers I used in my home laptop besides some pe
 	```
 
 ## Sources and Ownership
-The images are mostly obtained from the following sources, and please contact if any picture is yours and I shall take them down.
+The images are mostly obtained from the following sources, and please contact if any picture is yours and I shall take them down.   
+- [KDE store](https://store.kde.org/browse?cat=299&ord=latest)
+- [unsplash](https://unsplash.com/wallpapers)
